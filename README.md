@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Hernandez</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [my portfolio CV](https://jesushernandezp.github.io/portafolio/portafolio-CV/)
 
