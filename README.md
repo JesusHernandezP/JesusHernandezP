@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio CV](https://jesushernandezp.github.io/portafolio/portafolio-CV/)
 
-- 👨‍💻 All of my projects are available at [https://hernandez-jesus.com] (https://hernandez-jesus.com)
+- 👨‍💻 All of my projects are available at [https://hernandez-jesus.com/] (https://hernandez-jesus.com/)
 
 - 💬 Ask me about **html, css, figma, javascript y reactjs**
 
