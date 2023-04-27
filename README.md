@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hernandez-jesus.com/] 
 
-- 💬 Ask me about **html, css, figma, javascript y reactjs**
+- 💬 Ask me about **html, css, figma, boostrap, trello, javascript y reactjs**
 
 - 📫 How to reach me **jahp88x@gmail.com**
 
