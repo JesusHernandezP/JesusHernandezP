@@ -432,6 +432,10 @@
         {
           "name": "Trello",
           "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
         }
       ]
     },
