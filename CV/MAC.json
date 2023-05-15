@@ -214,6 +214,18 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "bachillerato",
+        "startDate": "2003-09-01",
+        "institution": {
+          "name": "instituto paraguana"
+        },
+        "finishDate": "2008-06-01"
+      }
+    ],
     "softSkills": [
       {
         "skill": {
