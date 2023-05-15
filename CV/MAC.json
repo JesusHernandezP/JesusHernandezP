@@ -410,6 +410,10 @@
           "type": "technology"
         },
         {
+          "name": "Tableau",
+          "type": "technology"
+        },
+        {
           "name": "Trello",
           "type": "technology"
         }
