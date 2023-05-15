@@ -352,6 +352,10 @@
         {
           "name": "HTML",
           "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
         }
       ]
     },
