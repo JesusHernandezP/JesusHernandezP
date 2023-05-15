@@ -346,6 +346,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
           "name": "CSS",
           "type": "technology"
         },
