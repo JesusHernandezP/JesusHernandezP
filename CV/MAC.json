@@ -346,6 +346,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
           "name": "HTML",
           "type": "technology"
         }
