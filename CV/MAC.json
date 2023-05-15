@@ -461,6 +461,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
         "name": "HTML",
         "type": "technology"
       }
