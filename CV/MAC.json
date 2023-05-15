@@ -362,6 +362,10 @@
           "type": "technology"
         },
         {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
           "name": "GraphQL",
           "type": "technology"
         },
