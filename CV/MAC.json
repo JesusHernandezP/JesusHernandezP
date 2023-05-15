@@ -362,6 +362,10 @@
           "type": "technology"
         },
         {
+          "name": "GraphQL",
+          "type": "technology"
+        },
+        {
           "name": "HTML",
           "type": "technology"
         },
