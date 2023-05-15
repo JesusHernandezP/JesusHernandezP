@@ -218,12 +218,70 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Bachillerato",
+        "name": "Bachillerato en informatica",
         "startDate": "2003-09-01",
         "institution": {
           "name": "instituto paraguana"
         },
         "finishDate": "2008-06-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Desarrollo frontend y habilidades profesionales",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Powercoders | Hackaboos",
+          "description": "En este programa social para migrantes de Powercoders España. Fui uno de los elegidos entre más de 200 personas que se postularon para asistir al bootcamp de desarrollo frontend. Esta experiencia sentó las bases para mi éxito en este campo, Durante el Bootcamp desarrolle habilidades en:\n-HTML5\n-CSS\n-JavaScript \n-React\n-Figma\n-UX/UI\n-Git\n-Jira\n-Mobile first.\nLo que me permite trabajar en una variedad de proyectos web en diferentes equipos usando metodología Agile, creatividad, la tolerancia al trabajo en equipo bajo presión, el orden y la atención al detalle en proyectos innovadores.\n",
+          "URL": "https://www.linkedin.com/in/jesushernandez-",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/15/91987353-2010-423f-9383-abf377da9831_diplomapowercoders.jpg",
+            "alt": "diplomapowercoders.jpg"
+          }
+        },
+        "finishDate": "2023-05-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "GitLab",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jira",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Trello",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "officialDegree",
