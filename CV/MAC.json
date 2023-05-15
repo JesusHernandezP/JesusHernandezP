@@ -343,6 +343,14 @@
         }
       ]
     },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "HTML",
+          "type": "technology"
+        }
+      ]
+    },
     "status": "searchingActively"
   },
   "manfredSpecificData": {
