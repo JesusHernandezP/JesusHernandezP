@@ -376,6 +376,10 @@
         {
           "name": "React",
           "type": "technology"
+        },
+        {
+          "name": "Trello",
+          "type": "technology"
         }
       ]
     },
