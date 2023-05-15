@@ -28,6 +28,77 @@
       }
     ]
   },
+  "experience": {
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "desarrollo frontend y habilidades sociales",
+          "description": "Aunque soy licenciado en artes culinarias, decidí dar un cambio profesional después de 10 años de carrera, y me siento orgulloso de ello. Desde muy joven he tenido un gran interés y pasión por la tecnología, y este proceso fue posible gracias a una oportunidad en el programa social para migrantes de Powercoders España. Fui uno de los elegidos entre más de 200 personas que se postularon para asistir al bootcamp de desarrollo frontend. Esta experiencia sentó las bases para mi éxito en este campo, y ahora estoy ansioso por aplicar mis habilidades y conocimientos en el mundo laboral.",
+          "URL": "https://www.linkedin.com/in/jesushernandez-",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/15/1981a5bf-4151-4e2a-8e2f-2a44a7baf984_titulopowercoders.jpeg",
+            "alt": "titulopowercoders.jpeg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2023-05-01",
+        "relatedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "GitLab",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jira",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "StyledComponents",
+            "type": "technology"
+          },
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          },
+          {
+            "name": "Trello",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "hardSkills": [
       {
