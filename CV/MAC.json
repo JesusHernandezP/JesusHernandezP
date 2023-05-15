@@ -394,6 +394,10 @@
           "type": "technology"
         },
         {
+          "name": "PowerShell",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
