@@ -24,8 +24,7 @@
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "http://hernandez-jesus.com",
-        "description": "portafolio de proyectos"
+        "URL": "http://hernandez-jesus.com"
       }
     ]
   },
@@ -107,6 +106,14 @@
         "skill": {
           "name": "WordPress",
           "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
