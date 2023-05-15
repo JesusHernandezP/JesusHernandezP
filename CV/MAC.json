@@ -29,6 +29,40 @@
     ]
   },
   "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "portafolio",
+          "URL": "http://hernandez-jesus.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/15/66427115-acf3-45da-852f-71d0b54d4f01_fondo.jpg",
+            "alt": "fondo.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-04-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-05-01"
+          }
+        ]
+      }
+    ],
     "publicArtifacts": [
       {
         "details": {
@@ -220,5 +254,12 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "projects": [
+      {
+        "name": "portafolio"
+      }
+    ]
   }
 }
