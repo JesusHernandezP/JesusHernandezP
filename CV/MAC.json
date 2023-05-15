@@ -370,6 +370,10 @@
           "type": "technology"
         },
         {
+          "name": "Jira",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         }
