@@ -437,6 +437,9 @@
           "name": "WordPress",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
       ]
     },
     "status": "searchingActively"
