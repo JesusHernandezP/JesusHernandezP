@@ -390,6 +390,10 @@
           "type": "technology"
         },
         {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
           "name": "Trello",
           "type": "technology"
         }
