@@ -414,7 +414,15 @@
           "type": "technology"
         },
         {
+          "name": "StyledComponents",
+          "type": "technology"
+        },
+        {
           "name": "Tableau",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
           "type": "technology"
         },
         {
