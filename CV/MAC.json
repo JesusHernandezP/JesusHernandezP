@@ -350,6 +350,10 @@
           "type": "technology"
         },
         {
+          "name": "Bootstrap",
+          "type": "technology"
+        },
+        {
           "name": "CSS",
           "type": "technology"
         },
