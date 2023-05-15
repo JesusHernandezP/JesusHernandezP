@@ -218,22 +218,22 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Bachillerato",
+        "startDate": "2003-09-01",
+        "institution": {
+          "name": "instituto paraguana"
+        },
+        "finishDate": "2008-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Licenciatura en artes culinarias",
         "startDate": "2010-07-01",
         "institution": {
           "name": "The Trinidad and Tobago Hospitality and Tourism Institute"
         },
         "finishDate": "2014-09-01"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "bachillerato",
-        "startDate": "2003-09-01",
-        "institution": {
-          "name": "instituto paraguana"
-        },
-        "finishDate": "2008-06-01"
       }
     ],
     "softSkills": [
