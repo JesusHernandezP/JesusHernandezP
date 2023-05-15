@@ -20,7 +20,14 @@
         "region": "Comunidad de Madrid",
         "municipality": "Madrid"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "http://hernandez-jesus.com",
+        "description": "portafolio de proyectos"
+      }
+    ]
   },
   "knowledge": {
     "hardSkills": [
@@ -106,6 +113,12 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/jesushernandez-/",
+          "type": "linkedin"
+        }
+      ],
       "contactMails": [
         "jahp88x@gmail.com"
       ],
