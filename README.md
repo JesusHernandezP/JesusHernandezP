@@ -17,10 +17,7 @@
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java SE" width="40" height="40"/> </a> 
-  <a href="https://jakarta.ee/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Jakarta_EE_logo.svg" alt="Java EE / Jakarta EE" width="40" height="40"/> </a> 
-  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/object-oriented-programming.png" alt="OOP" width="40" height="40"/> </a> 
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SpringBoot" width="40" height="40"/> </a> 
-  <a href="https://en.wikipedia.org/wiki/Microservices" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/plasticine/100/000000/microservice.png" alt="Microservices" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a> 
   <a href="https://en.wikipedia.org/wiki/Sql" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
