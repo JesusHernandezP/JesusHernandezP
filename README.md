@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently open to work
 
-- 👨‍💻 All of my projects are available at [https://hernandez-jesus.com](https://hernandez-jesus.com)
+- 👨‍💻 All of my projects are available at [https://hernandez-jesus.com]([https://jesushernandezp.github.io/portafolio/portafolio-CV/])
 
 - 💬 Ask me about ** Java SE, Java EE, OOP, SpringBoot , Microservices , Docker, SQL, HTML , CSS, javascript **
 
