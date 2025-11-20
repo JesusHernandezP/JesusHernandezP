@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hernandez-jesus.com](https://hernandez-jesus.com)
 
-- 💬 Ask me about ** Java SE, Java EE, OOP, SpringBoot , Microservices , Docker, SQL, html , css, javascript **
+- 💬 Ask me about ** Java SE, Java EE, OOP, SpringBoot , Microservices , Docker, SQL, HTML , CSS, javascript **
 
 - 📫 How to reach me **jahp88x@gmail.com**
 
