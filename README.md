@@ -5,7 +5,8 @@
 
 ### 🚀 Sobre mí
 Soy desarrollador multiplataforma con experiencia práctica construyendo aplicaciones usando **Java**, **Spring Boot**, **APIs REST**, **SQL/JPA**, **Docker** y buenas prácticas de arquitectura.  
-También trabajo con **HTML, CSS, JavaScript y Angular**, y he integrado **APIs de Inteligencia Artificial** en proyectos.
+También trabajo con **HTML, CSS, JavaScript y Angular**, y he integrado **APIs de Inteligencia Artificial** en proyectos.  
+Además, utilizo **Git y GitHub** de forma habitual para control de versiones, flujo de trabajo y colaboración.
 
 Siempre abierto a colaborar, aprender y aportar soluciones claras y bien construidas.
 
@@ -58,6 +59,3 @@ Siempre abierto a colaborar, aprender y aportar soluciones claras y bien constru
 
 ### 📌 Estado
 🟢 **Open to Work / Open to Collaborations**
-
----
-
