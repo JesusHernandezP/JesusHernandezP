@@ -1,26 +1,63 @@
-<h1 align="center">Hi 👋, I'm Jesus Hernandez</h1>
-<h3 align="center">A passionate multiplatform developer.</h3>
+<h1 align="center">👋 Hola, soy Jesús Hernández</h1>
+<h3 align="center">Desarrollador Multiplataforma (DAM) · Java · Spring Boot · SQL · Docker · Angular · IA aplicada</h3>
 
-- 🔭 I’m currently open to work
+---
 
-- 👨‍💻 All of my projects are available at [https://hernandez-jesus.com](https://jesushernandezp.github.io/portafolio/portafolio-CV/)
+### 🚀 Sobre mí
+Soy desarrollador multiplataforma con experiencia práctica construyendo aplicaciones usando **Java**, **Spring Boot**, **APIs REST**, **SQL/JPA**, **Docker** y buenas prácticas de arquitectura.  
+También trabajo con **HTML, CSS, JavaScript y Angular**, y he integrado **APIs de Inteligencia Artificial** en proyectos.
 
-- 💬 Ask me about ** Java SE, Java EE, OOP, SpringBoot , Microservices , Docker, SQL, HTML , CSS, javascript **
+Siempre abierto a colaborar, aprender y aportar soluciones claras y bien construidas.
 
-- 📫 How to reach me **jahp88x@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Portfolio
+🔗 **https://jesushernandezp.github.io/portafolio/portafolio-CV/**
+
+---
+
+### 📫 Contacto
+- Email: **jahp88x@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/jesushernandezp/**
+
+---
+
+### 🛠 Tecnologías y herramientas
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jesushernandez-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jesushernandez-/" height="30" width="40" />https://www.linkedin.com/in/jesushernandez-/</a>
+
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+
+  <!-- Spring -->
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Boot" />
+
+  <!-- SQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL / MySQL" />
+
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+
+  <!-- Angular -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" />
+
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+
 </p>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> 
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java SE" width="40" height="40"/> </a> 
-  <a > <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SpringBoot" width="40" height="40"/> </a> 
-  <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a> 
-  <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> </a> 
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-</p>
+---
+
+### 📌 Estado
+🟢 **Open to Work / Open to Collaborations**
+
+---
+
