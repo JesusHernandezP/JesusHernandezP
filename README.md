@@ -13,7 +13,7 @@ Siempre abierto a colaborar, aprender y aportar soluciones claras y bien constru
 ---
 
 ### 🌐 Portfolio
-🔗 **https://jesushernandezp.github.io/portafolio/portafolio-CV/**
+🔗 **https://jesushernandezp.github.io/portafolio/**
 
 ---
 
