@@ -98,7 +98,7 @@ Landing interactiva y batería de preparación para exámenes FP DAM.
 ➡️ https://github.com/JesusHernandezP/Protocolo-de-estudio
 
 🌐 Demo  
-➡️ https://bateria-de-examanes.vercel.app
+➡️ https://bateria-de-examenes.vercel.app
 
 ---
 
